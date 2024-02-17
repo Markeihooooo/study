@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CB25E77E-0CD4-428C-8A5C-87DA1A28E569}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="chapter01_2/FindTheNumber.cs">
+    <Files>
+      <File FileName="chapter01_2/FindTheNumber.cs" Line="41" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="chapter01_2" expanded="True">
+            <Node name="chapter01_2" expanded="True">
+              <Node name="FindTheNumber.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.chapter01__2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
